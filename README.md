@@ -43,7 +43,7 @@ If you have any issues, please let me know in the issues section or directly to 
 ## Installation 💾
 
 ```bash
-git clone https://github.com/olafsulich/fullstack-nextjs-ecommerce.git
+git clone https://github.com/obelr/fullstack-nextjs-ecommerce.git
 ```
 
 Fill your `.env` variables:
